@@ -503,7 +503,7 @@ const de = k(lt, [["render", rt]]),
     },
     [
       n("img", { src: Y, alt: "", class: "h-10 w-10" }),
-      n("h1", null, "Hexanet Staking"),
+      n("h1", null, "HeraAI Staking"),
       n("h1", { class: "block md:hidden -ml-3" }, "Staking"),
     ],
     -1
