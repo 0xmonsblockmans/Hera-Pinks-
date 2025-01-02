@@ -382,7 +382,7 @@ function qe(e, t, s, p, a, o) {
   );
 }
 const ie = k(Ue, [["render", qe]]),
-  Y = "/img/logo.png",
+  Y = "/logo.png",
   je = {
     name: "Balance",
     computed: {
@@ -1946,7 +1946,7 @@ function ks(e, t, s, p, a, o) {
         c(
           i,
           {
-            icon: "/img/logo.png",
+            icon: "/logo.png",
             value: `${o.userStakedFormatted} ${e.symbol}`,
             title: "Staked",
             col: "",
@@ -1970,7 +1970,7 @@ function ks(e, t, s, p, a, o) {
         c(
           i,
           {
-            icon: "/img/logo.png",
+            icon: "/logo.png",
             value: `${o.userTokenEarnedFormatted} ${e.symbol}`,
             title: `Earned ${e.symbol}`,
             col: "",
